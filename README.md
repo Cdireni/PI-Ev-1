@@ -1,5 +1,5 @@
 # Evidencia 1 - Proyecto Integrador
-
+Direni Carlos - DNI 28117281
 Este proyecto es una práctica de React con Vite, Tailwind CSS y consumo de API con Axios.
 
 ## Instrucciones para ejecutar el proyecto
