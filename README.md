@@ -20,4 +20,4 @@ Este proyecto es una práctica de React con Vite, Tailwind CSS y consumo de API 
 
 ## Captura de pantalla
 
-_Agrega aquí una imagen del resultado en funcionamiento (puedes arrastrar y soltar la imagen en el README si usas GitHub, o adjuntarla en la entrega si es por carpeta)._
+Imagen en PNG
